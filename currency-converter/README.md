@@ -2,4 +2,4 @@
 
 A Currency Converter for Practising Custom Hook.
 
-Live Preview:-https://mycurrency-conv.netlify.app/
+Live Preview:- https://mycurrency-con.netlify.app/
