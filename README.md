@@ -3,7 +3,7 @@ React Components For Practising.
 
 # Currency Converter
 
-Live Preview:-https://mycurrency-conv.netlify.app/
+Live Preview:-https://mycurrency-con.netlify.app/
 
 # Password Generator
 
